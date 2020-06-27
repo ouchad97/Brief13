@@ -17,6 +17,7 @@ Text Domain: akismet
 
 
 <?php
+define('RESTRICTED',1);
 add_action('admin_menu', 'my_admin_menu');
 
 function my_admin_menu () {
