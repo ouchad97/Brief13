@@ -11,3 +11,7 @@ Pour crée plugin ( Plugin Name: footer / Plugin URI:../Description:../...)
 
 Apres l'activation de plugin
 Pour personnaliser l'icône du plugin (add_menu_page('Footer Text title', 'Footer Settings', 'manage_options','footer_setting_page', 'mt_settings_page','dashicons-welcome-widgets-menus','2');)
+
+Sécurisation l'accès directe à fichiers php du plugin
+
+
