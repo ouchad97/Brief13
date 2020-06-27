@@ -1,4 +1,5 @@
 <?php
+if(!defined('RESTRICTED'))exit('No direct script access allowed!');
     global $chk;
     if(isset($_POST['wphw_submit'])){
             wphw_opt();
